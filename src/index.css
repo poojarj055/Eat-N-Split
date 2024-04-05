@@ -21,8 +21,12 @@ body {
   height: 100vh;
   color: #495057;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
+  margin-top: 280px;
   justify-content: center;
+  background-image: url('EAT-N-SPLIT.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .app {
